@@ -1,4 +1,4 @@
-'''
+
 #Python Program To Build A Calculator#
 print("+ Add,- Sub,* multiply,/ Divide,% rem")
 num1=int(input("Enter the No 1:"))
@@ -16,7 +16,7 @@ elif operator=='%':
     print(num1%num2)
 else:
     print("Invalid Operator")
-'''
+
 ## CALCULATOR ##
 '''
 def add(x,y):
